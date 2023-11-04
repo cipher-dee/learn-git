@@ -4,7 +4,7 @@
 } */
 
 body {    
-    /*font-family: 'Inter', sans-serif; */
+    font-family: 'Inter', sans-serif;
     color: #55899c;
  }
 
@@ -13,11 +13,11 @@ nav {
 }
 
 nav li {
-    /* 
+    
     display: inline;
     float: right;
     padding: 1% 1% 0 0;
-     */
+    
 }
 
 #top {
